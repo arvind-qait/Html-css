@@ -6,7 +6,7 @@ body{
 	
 }
 
-.d1{
+.d1{	
 	background-color: #808000;
 	border-style: outset;
 	margin-top: 120px;
@@ -16,8 +16,32 @@ body{
 
 }
 
-.f{
+.form{
 	text-align: center;
 	padding: 30px;
 }
 
+.center{
+	margin-left: 220px;
+}
+
+.btn{
+
+	height: 35px;
+	background-color: blue;
+	color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 8px; 
+}
+
+.btn:hover{
+	background-color: blue;
+	color: red;
+}
+
+#btn1{
+
+	padding-left: 30px;
+	padding-right: 30px;
+}
