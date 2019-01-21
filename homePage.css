@@ -1,0 +1,40 @@
+body{
+	background-color: #2E8B57;
+}
+.btn1{
+	background-color: #0500FF;
+	color: #ff80ff;
+	float: right;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 8px;
+	font-size: 15px;
+
+}
+
+.header{
+	background-color: gray;
+}
+.profileImg{
+	margin: 10px;
+	float: right;
+	width: 50px;
+}
+
+.img_building{
+	width: 100%;
+
+}
+
+#about{
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 50px;
+}
+
+.footer1{
+	height: 80px;
+	font-size: 50px;
+	background-color: #008080;
+}
